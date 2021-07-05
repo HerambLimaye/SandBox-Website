@@ -2,6 +2,8 @@
 
 ‘SandBox’ is a website where First Year  students will showcase their products through their company.
 
+Link to website: https://sandbox.infinityfreeapp.com/
+
 ScreenShots :
 
 ![alt text](https://github.com/SandBox-VIT/SandBox-Website/blob/main/Screenshot%20(673).png)
